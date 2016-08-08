@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/mourao/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.1/3af19f153122737b372622fa6c81dd11a1c6b999/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/mourao/AndroidStudioProjects/PhotoShare/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_c9cce228cf1c7fbfe17e1529fbabf822d7fe7080.jar" />
+    </item>
+    <item
+        jar="/home/mourao/AndroidStudioProjects/PhotoShare/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/home/mourao/AndroidStudioProjects/PhotoShare/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.1_bd872577a3767b120fdb4bbd505b49c59e3a5994.jar" />
+    </item>
+    <item
+        jar="/home/mourao/AndroidStudioProjects/PhotoShare/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/home/mourao/AndroidStudioProjects/PhotoShare/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.1_7b8dc74bcc110bf66a54a23e5315151ca9379b9b.jar" />
+    </item>
+    <item
+        jar="/home/mourao/AndroidStudioProjects/PhotoShare/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="396cc1d40364dc0cf78fddea3b5ea9e552c9f4b1">
+        <dex dex="/home/mourao/AndroidStudioProjects/PhotoShare/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_b0930c8fb6388eae80beada383799ebb6077f006.jar" />
+    </item>
+    <item
+        jar="/home/mourao/AndroidStudioProjects/PhotoShare/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="00ea99499218fc44ed6be4710f5f89ebb4940729">
+        <dex dex="/home/mourao/AndroidStudioProjects/PhotoShare/app/build/intermediates/pre-dexed/debug/instant-run_4b812cf9ce547006ea3d104766e56edf07188aa9.jar" />
+    </item>
+    <item
+        jar="/home/mourao/AndroidStudioProjects/PhotoShare/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/mourao/AndroidStudioProjects/PhotoShare/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_b9b1f8a313829642efffbd22ce6a3bfeeeaa5d86.jar" />
+    </item>
+    <item
+        jar="/home/mourao/AndroidStudioProjects/PhotoShare/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/mourao/AndroidStudioProjects/PhotoShare/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_dcd563b29e65282c0885f226efb32a34fbb7f832.jar" />
+    </item>
+    <item
+        jar="/home/mourao/AndroidStudioProjects/PhotoShare/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/home/mourao/AndroidStudioProjects/PhotoShare/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.1_f9e2e978fb74f9cc77fccc728a02db1ce4fcabad.jar" />
+    </item>
+
+</items>
